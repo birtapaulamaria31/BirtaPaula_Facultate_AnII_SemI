@@ -10,6 +10,8 @@ namespace Tema_Lab_1
     {
         static void Main(string[] args)
         {
+            //CifrulN.RezolvareCifru();
+            CifrulLuiCezar.RezolvareCifru();
         }
     }
 }
